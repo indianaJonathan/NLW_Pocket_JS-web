@@ -23,8 +23,8 @@ npm run dev
 - [x] Sem metas cadastradas
 - [x] Com metas cadastradas
 - [x] Cadastrar meta
-- [ ] Componentização dos elementos
-- [ ] Conexão com o backend
+- [x] Componentização dos elementos
+- [x] Conexão com o backend
 
 > Essa aplicação foi criada durante o evento [NLW Pocket JS](https://www.youtube.com/watch?v=7LRQ93tju1A) da [Rocketseat](https://www.rocketseat.com.br/)
 
@@ -48,7 +48,7 @@ npm run dev
 - [x] No goals registred
 - [x] With goals registred
 - [x] Create goal
-- [ ] Componentization of elements
-- [ ] Backend connection
+- [x] Componentization of elements
+- [x] Backend connection
 
 > This application were created during the event [NLW Pocket JS](https://www.youtube.com/watch?v=7LRQ93tju1A) by [Rocketseat](https://www.rocketseat.com.br/)
