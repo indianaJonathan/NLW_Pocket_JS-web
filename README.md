@@ -44,7 +44,7 @@ npm run dev
 ```
 
 
-### Developed routes
+### Developed pages
 - [x] No goals registred
 - [x] With goals registred
 - [x] Create goal
